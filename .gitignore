@@ -1,0 +1,11 @@
+# NetBeans / compilacion
+build/
+nbproject/private/
+*.class
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Nota: dist/ NO se ignora porque el Dockerfile necesita el WAR compilado.
